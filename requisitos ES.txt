@@ -1,0 +1,20 @@
+Análise de requisitos de um software de agendamento de tratamento capilar de um salão de cabeleireiro/barbearia
+
+-Visual:
+
+*Tela simples,mas que atende  a necessidade do usuário
+*Cores usuais de barbearias(vermelho,branco e azul)
+
+-Organizacional:
+
+*Cadastro no aplicativo(nome,CPF,email,data de nascimento,senha)
+*Agendamento(dia,profissional,serviço,local,horário)/no caso do profissional,opção possível de favoritar
+*Salão(enviará dias,profissionais,horários disponíveis e localização exata)
+*1 salão (banco de dados local)/franquia de salões(nuvem)
+*Acesso dos dados e compartilhamento entre a/as empresas/e funcionários
+
+-Estrutural:
+
+*Cadastro: Nome/CPF/data de nascimento/email/senha
+*Agendamento:Setor desejado/faixa de preço/feedback/salão/profissional/horário
+*Consultar tratamento:Dia/profissional/serviços/local/horário
